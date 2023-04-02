@@ -44,3 +44,11 @@
 .PREMEN{
     padding: 24px 0;
 }
+
+.Estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+}
